@@ -1,0 +1,369 @@
+2021-06-04 00:16:34,598 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 00:16:34,600 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:16:34] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 00:18:36,433 root ERROR Something went wrong: 1406 (22001): Data too long for column 'name' at row 1
+2021-06-04 00:18:36,435 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:18:36] "[37mPOST /update HTTP/1.1[0m" 200 -
+2021-06-04 00:19:04,739 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:19:04] "[37mPOST /update HTTP/1.1[0m" 200 -
+2021-06-04 00:20:59,662 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:20:59] "[37mPOST /getdata HTTP/1.1[0m" 200 -
+2021-06-04 00:21:16,282 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:21:16] "[37mPOST /getdata HTTP/1.1[0m" 200 -
+2021-06-04 00:23:01,441 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 00:23:01,443 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 00:23:01,445 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 00:23:01,446 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 00:30:36,566 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 00:30:36,568 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:30:36] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 00:35:06,439 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 00:35:06,441 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 00:35:06,443 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 00:35:06,444 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 00:44:22,064 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 00:44:22,066 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:44:22] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 00:45:42,734 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 00:45:42,735 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 00:45:42,743 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 00:47:18,850 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 00:47:18,853 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:47:18] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 00:47:22,368 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:47:22] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 00:47:25,768 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:47:25] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 00:47:37,979 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:47:37] "[37mPOST /update HTTP/1.1[0m" 200 -
+2021-06-04 00:47:47,573 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:47:47] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 00:48:03,925 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:48:03] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 00:48:09,472 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:48:09] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 00:48:13,105 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:48:13] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 00:49:17,823 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:49:17] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 00:49:30,588 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:49:30] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 00:49:36,880 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:49:36] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 00:52:07,739 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\config.py', reloading
+2021-06-04 00:57:07,660 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 00:57:07,661 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 00:57:07] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:00:25,490 root ERROR DB connection error
+2021-06-04 01:00:25,491 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 01:00:25] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:02:31,174 root ERROR DB connection error
+2021-06-04 01:02:31,175 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 01:02:31] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:03:14,290 root ERROR DB connection error
+2021-06-04 01:03:14,291 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 01:03:14] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:10:18,199 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 01:10:18,201 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 01:10:18] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:10:20,252 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 01:10:20,254 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 01:10:20] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:11:06,001 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:11:06,002 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:11:06,004 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:11:47,673 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 01:11:47,675 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 01:11:47] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:12:17,071 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:12:17,073 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:12:17,074 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:12:17,075 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:12:28,870 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 01:12:28,872 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 01:12:28] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:12:46,257 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:12:46,258 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:12:46,260 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:12:46,261 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 01:12:51,957 root ERROR Something went wrong: 1050 (42S01): Table 'test' already exists
+2021-06-04 01:12:51,959 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 01:12:51] "[37mPOST /create HTTP/1.1[0m" 200 -
+2021-06-04 01:14:39,343 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 01:14:39,344 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 01:14:39,345 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 13:10:19,073 root ERROR Something went wrong: 1366 (HY000): Incorrect integer value: 'id' for column 'id' at row 1
+2021-06-04 13:10:19,097 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:10:19] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:11:30,682 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 13:11:30,684 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 13:11:30,686 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 13:11:40,586 root ERROR Something went wrong: 1366 (HY000): Incorrect integer value: 'id' for column 'id' at row 1
+2021-06-04 13:11:40,588 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:11:40] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:12:19,796 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 13:12:19,797 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 13:12:19,798 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 13:12:19,799 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 13:12:32,780 root ERROR Something went wrong: 1366 (HY000): Incorrect integer value: 'id' for column 'id' at row 1
+2021-06-04 13:12:32,782 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:12:32] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:18:54,098 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:18:54] "[37mOPTIONS /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:18:54,158 root ERROR Something went wrong: 1366 (HY000): Incorrect integer value: 'id' for column 'id' at row 1
+2021-06-04 13:18:54,160 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:18:54] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:19:57,375 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:19:57] "[37mOPTIONS /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:19:57,432 root ERROR Something went wrong: 1366 (HY000): Incorrect integer value: 'id' for column 'id' at row 1
+2021-06-04 13:19:57,434 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:19:57] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:25:20,788 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:25:20] "[37mOPTIONS /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:25:20,846 root ERROR Something went wrong: 1366 (HY000): Incorrect integer value: 'id' for column 'id' at row 1
+2021-06-04 13:25:20,848 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:25:20] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:30:40,030 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:30:40] "[37mOPTIONS /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:30:40,096 root ERROR Something went wrong: 1264 (22003): Out of range value for column 'id' at row 1
+2021-06-04 13:30:40,096 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:30:40] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:33:22,550 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:33:22] "[37mOPTIONS /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:33:22,843 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:33:22] "[37mPOST /bulk HTTP/1.1[0m" 200 -
+2021-06-04 13:40:44,897 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:40:44] "[31m[1mGET /select HTTP/1.1[0m" 405 -
+2021-06-04 13:42:18,459 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:42:18] "[31m[1mGET /select HTTP/1.1[0m" 405 -
+2021-06-04 13:43:00,324 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:43:00] "[31m[1mGET /select HTTP/1.1[0m" 405 -
+2021-06-04 13:43:36,920 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:43:36] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 13:43:36,976 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:43:36] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 13:48:58,425 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:48:58] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 13:48:58,526 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:48:58] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 13:49:21,937 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:49:21] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 13:49:21,995 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:49:21] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 13:50:02,019 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:50:02] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 13:50:02,072 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:50:02] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 13:52:05,095 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:52:05] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 13:52:05,155 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:52:05] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 13:54:22,416 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:54:22] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 13:54:22,478 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:54:22] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 13:54:28,264 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:54:28] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 13:54:28,318 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:54:28] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 13:56:48,925 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:56:48] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 13:56:48,982 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 13:56:48] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:03:01,267 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:03:01] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:03:01,325 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:03:01] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:09:02,926 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:09:02] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:09:03,002 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:09:03] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:10:00,826 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:10:00] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:10:00,889 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:10:00] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:10:47,991 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:10:47] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:10:48,047 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:10:48] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:11:20,218 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:11:20] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:11:20,287 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:11:20] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:14:10,068 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:14:10] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:14:10,130 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:14:10] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:16:04,361 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:16:04] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:16:04,420 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:16:04] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:16:19,920 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:16:19] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:16:19,979 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:16:19] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:17:56,311 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:17:56] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:17:56,376 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:17:56] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:18:08,187 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:18:08] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:18:08,249 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:18:08] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:18:37,040 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:18:37] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:18:37,095 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:18:37] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:18:47,850 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:18:47] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:18:47,911 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:18:47] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:40:02,865 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:40:02] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:40:03,074 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:40:03] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:40:19,790 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:40:19] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:40:19,863 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:40:19] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:40:29,091 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:40:29] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:40:29,146 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:40:29] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:41:17,034 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:41:17] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:41:17,092 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:41:17] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:45:29,265 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:45:29] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:45:29,326 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:45:29] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:46:59,527 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:46:59] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:46:59,585 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:46:59] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:51:38,486 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:51:38] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:51:38,550 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:51:38] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:53:50,303 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:53:50] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:53:50,397 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:53:50] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:54:58,908 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:54:58] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:54:58,960 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:54:58] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:57:58,016 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:57:58] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:57:58,072 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:57:58] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:58:03,865 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:58:03] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:58:04,084 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:58:04] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:58:11,935 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:58:11] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 14:58:11,939 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:58:11] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:58:12,166 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:58:12] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 14:58:12,202 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:58:12] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 14:58:52,937 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:58:52] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 14:58:53,019 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 14:58:53] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:00:10,812 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:00:10] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:00:10,876 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:00:10] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:00:24,776 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:00:24] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:00:24,779 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:00:24] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:00:24,912 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:00:24] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:00:25,085 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:00:25] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:01:03,171 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:01:03] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:01:03,236 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:01:03] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:02:19,074 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:02:19] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:02:19,150 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:02:19] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:02:35,599 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:02:35] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:02:35,601 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:02:35] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:02:35,702 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:02:35] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:02:35,768 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:02:35] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:03:57,361 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:03:57] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:03:57,455 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:03:57] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:04:13,891 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:04:13] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:04:14,274 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:04:14] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:04:32,352 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:04:32] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:04:32,428 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:04:32] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:05:49,405 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:05:49] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:05:49,475 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:05:49] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:13:15,023 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:13:15] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:13:15,115 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:13:15] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:16:21,255 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:16:21] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:16:21,342 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:16:21] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:17:05,507 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:17:05] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:17:05,562 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:17:05] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:17:19,558 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:17:19] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:17:19,694 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:17:19] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:17:19,749 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:17:19] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:17:19,827 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:17:19] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:20:20,786 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:20:20] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:20:20,851 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:20:20] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:20:58,303 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:20:58] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:20:58,384 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:20:58] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:21:44,311 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:21:44] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:21:44,380 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:21:44] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:21:54,799 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:21:54] "[37mOPTIONS /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:21:55,050 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:21:55] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:21:55,100 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:21:55] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:21:55,212 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:21:55] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:21:59,890 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:21:59] "[37mOPTIONS /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:22:00,029 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:00] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:22:00,124 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:00] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:22:03,443 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:03] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:22:03,466 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:03] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:22:03,539 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:03] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:22:30,411 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:30] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:22:30,699 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:30] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:22:30,725 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:30] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:22:30,808 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:22:30] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:23:30,379 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:23:30] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:23:30,462 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:23:30] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:23:40,514 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:23:40] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:23:40,711 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:23:40] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:23:40,756 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:23:40] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:23:40,808 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:23:40] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:24:39,108 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:24:39] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:24:39,199 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:24:39] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:24:45,745 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:24:45] "[37mOPTIONS /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:24:46,147 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:24:46] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:24:46,195 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:24:46] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:24:46,260 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:24:46] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:26:09,090 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:09] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:26:09,176 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:09] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:26:19,892 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:19] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:26:20,212 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:20] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:26:20,256 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:20] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:26:20,306 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:20] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:26:27,872 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:27] "[37mOPTIONS /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:26:28,022 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:28] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:26:28,066 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:28] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:26:28,119 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:26:28] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:29:04,446 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:04] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:29:04,524 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:04] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:29:10,076 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:10] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:29:10,396 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:10] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:29:10,467 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:10] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:29:10,514 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:10] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:29:42,767 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:42] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:29:42,925 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:42] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 15:29:42,964 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:42] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:29:43,016 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:29:43] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:30:00,652 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:30:00] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:30:00,713 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:30:00] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:30:23,421 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:30:23] "[37mOPTIONS /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:30:23,666 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:30:23] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 15:30:23,722 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:30:23] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:30:23,793 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:30:23] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:43:40,092 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:43:40] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:43:40,154 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:43:40] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:44:00,721 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:44:00] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:44:00,816 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:44:00] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:46:34,181 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:46:34] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:46:34,238 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:46:34] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:47:40,102 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:47:40] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:47:40,160 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:47:40] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:48:57,106 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:48:57] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:48:57,164 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:48:57] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:49:59,268 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:49:59] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:49:59,327 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:49:59] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:53:37,285 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:53:37] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:53:37,406 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:53:37] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:54:12,730 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:54:12] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:54:12,784 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:54:12] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:54:39,786 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:54:39] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:54:39,869 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:54:39] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:55:14,674 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:55:14] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:55:14,731 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:55:14] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:56:20,621 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:56:20] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:56:20,703 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:56:20] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:57:50,816 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:57:50] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:57:50,907 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:57:50] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:58:16,366 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:58:16] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:58:16,439 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:58:16] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 15:59:53,367 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:59:53] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 15:59:53,423 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 15:59:53] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:00:57,654 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:00:57] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:00:57,711 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:00:57] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:01:54,319 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:01:54] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:01:54,375 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:01:54] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:05:35,063 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:05:35] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:05:35,124 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:05:35] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:05:48,099 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:05:48] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:05:48,153 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:05:48] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:06:00,477 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:06:00] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 16:06:00,558 root ERROR Something went wrong: 1366 (HY000): Incorrect integer value: '' for column 'id' at row 1
+2021-06-04 16:06:00,558 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:06:00] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 16:06:00,614 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:06:00] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:06:00,663 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:06:00] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:04,292 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:04] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:04,365 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:04] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:16,326 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:16] "[37mOPTIONS /update HTTP/1.1[0m" 200 -
+2021-06-04 16:07:17,016 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:17] "[37mPOST /update HTTP/1.1[0m" 200 -
+2021-06-04 16:07:17,061 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:17] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:17,118 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:17] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:28,458 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:28] "[37mOPTIONS /update HTTP/1.1[0m" 200 -
+2021-06-04 16:07:28,619 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:28] "[37mPOST /update HTTP/1.1[0m" 200 -
+2021-06-04 16:07:28,655 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:28] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:28,715 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:28] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:38,169 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:38] "[37mOPTIONS /insert HTTP/1.1[0m" 200 -
+2021-06-04 16:07:38,359 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:38] "[37mPOST /insert HTTP/1.1[0m" 200 -
+2021-06-04 16:07:38,402 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:38] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:38,456 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:38] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:43,323 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:43] "[37mOPTIONS /delete HTTP/1.1[0m" 200 -
+2021-06-04 16:07:43,574 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:43] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 16:07:43,603 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:43] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:43,655 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:43] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:57,195 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:57] "[37mOPTIONS /update HTTP/1.1[0m" 200 -
+2021-06-04 16:07:58,002 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:58] "[37mPOST /update HTTP/1.1[0m" 200 -
+2021-06-04 16:07:58,034 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:58] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:07:58,099 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:07:58] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:40:35,745 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:40:35] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:40:35,821 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:40:35] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:40:46,439 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:40:46] "[37mOPTIONS /update HTTP/1.1[0m" 200 -
+2021-06-04 16:40:47,074 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:40:47] "[37mPOST /update HTTP/1.1[0m" 200 -
+2021-06-04 16:40:47,126 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:40:47] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:40:47,177 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:40:47] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:41:20,273 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:41:20] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:41:20,340 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:41:20] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:41:30,365 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:41:30] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:41:30,434 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:41:30] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:42:13,197 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:42:13] "[37mOPTIONS /update HTTP/1.1[0m" 200 -
+2021-06-04 16:42:13,391 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:42:13] "[37mPOST /update HTTP/1.1[0m" 200 -
+2021-06-04 16:42:13,439 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:42:13] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:42:13,488 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:42:13] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:42:19,231 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:42:19] "[37mOPTIONS /delete HTTP/1.1[0m" 200 -
+2021-06-04 16:42:19,401 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:42:19] "[37mPOST /delete HTTP/1.1[0m" 200 -
+2021-06-04 16:42:19,437 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:42:19] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:42:19,493 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:42:19] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:43:18,472 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:43:18] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:43:18,531 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:43:18] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:43:35,678 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:43:35] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:43:35,767 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:43:35] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:45:49,747 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:45:49] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:45:49,805 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:45:49] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:46:03,925 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:46:03] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:46:03,987 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:46:03] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:46:09,919 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:46:09] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:46:09,978 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:46:09] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:46:56,834 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:46:56] "[37mOPTIONS /select HTTP/1.1[0m" 200 -
+2021-06-04 16:46:56,899 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 16:46:56] "[37mPOST /select HTTP/1.1[0m" 200 -
+2021-06-04 16:51:42,272 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\logger.py', reloading
+2021-06-04 16:51:42,284 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\logger.py', reloading
+2021-06-04 17:18:57,693 root ERROR 400 bad request, data not sufficient unable to perform download Operation
+2021-06-04 17:18:57,727 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\json\\encoder.py', reloading
+2021-06-04 17:18:57,730 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 17:18:57] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2021-06-04 17:19:53,681 root ERROR 400 bad request, data not sufficient unable to perform download Operation
+2021-06-04 17:19:53,703 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 17:19:53] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2021-06-04 17:20:59,150 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 17:20:59,151 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 17:20:59,192 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 17:21:07,569 root ERROR 400 bad request, data not sufficient unable to perform download Operation
+2021-06-04 17:21:07,571 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 17:21:07] "[37mPOST /download HTTP/1.1[0m" 200 -
+2021-06-04 17:21:31,882 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 17:21:31,882 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 17:21:31,884 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\app.py', reloading
+2021-06-04 17:26:00,522 root ERROR 400 bad request, data not sufficient unable to perform download Operation
+2021-06-04 17:26:00,523 werkzeug INFO 127.0.0.1 - - [04/Jun/2021 17:26:00] "[37mPOST /download HTTP/1.1[0m" 200 -
+2021-06-04 17:26:19,763 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 17:26:19,765 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 17:26:19,767 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
+2021-06-04 17:26:19,768 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\Flask\\MyProject\\dbOperations.py', reloading
