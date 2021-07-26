@@ -3,9 +3,9 @@
 ## How to start
   python app.py
 
-## Included modules support
-  Flask
-  BeautifulSoup
+## Included modules 
+  - Flask
+  - BeautifulSoup
   
 Once we start app.py, app will be up and running. Hit the local host url http://127.0.0.1:5000/ to access the below page
 
