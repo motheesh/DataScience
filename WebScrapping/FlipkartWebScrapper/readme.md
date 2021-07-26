@@ -1,4 +1,4 @@
-# WebScrapping Sample App: Python
+# FlipKart WebScrapping App: Python
 
 ## How to start
   python app.py
