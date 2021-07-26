@@ -1,7 +1,7 @@
 from ReviewDetails import ReviewDetails
 import requests
 from bs4 import BeautifulSoup
-
+from logger import logger 
 
 class FlipkartWebScrapper:
     def __init__(self):

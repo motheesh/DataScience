@@ -1,0 +1,4 @@
+2021-07-26 22:27:36,454 root INFO http://127.0.0.1:5000/search?keyword=iphone|GET
+2021-07-26 22:27:36,461 werkzeug INFO 127.0.0.1 - - [26/Jul/2021 22:27:36] "[37mGET /search?keyword=iphone HTTP/1.1[0m" 200 -
+2021-07-26 22:28:09,601 root ERROR not able to scarp review for product ugg
+2021-07-26 22:28:09,603 werkzeug INFO 127.0.0.1 - - [26/Jul/2021 22:28:09] "[37mGET /search?keyword=ugg HTTP/1.1[0m" 200 -
