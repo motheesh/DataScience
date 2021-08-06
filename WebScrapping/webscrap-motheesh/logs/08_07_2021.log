@@ -1,0 +1,2 @@
+2021-08-07 00:06:31,011 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone&numberofreview=80|GET
+2021-08-07 00:06:31,017 werkzeug INFO 127.0.0.1 - - [07/Aug/2021 00:06:31] "[37mGET /getallreviews?keyword=iphone&numberofreview=80 HTTP/1.1[0m" 200 -

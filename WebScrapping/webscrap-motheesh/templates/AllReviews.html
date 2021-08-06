@@ -1,0 +1,50 @@
+<div class="row pb-2">
+  <div class="col-md-12">
+    <div class="chart" id="bargraph">
+      <script>
+        var graphs = {{plot | safe}};
+        Plotly.plot('bargraph',graphs,{});
+      </script>
+    </div>
+  </div>
+  <div class="col-md-12">
+    <div class="chart" id="funnel">
+      <script>
+        var graphs = {{distribution | safe}};
+        Plotly.plot('funnel',graphs,{});
+      </script>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    <div class="chart" id="review">
+      <script>
+        var graphs = {{reviewDistribution | safe}};
+        Plotly.plot('review',graphs,{});
+      </script>
+    </div>
+  </div>
+</div>
+<table class="table shadow-lg table-fixed">
+  <thead class="table-dark shadow-lg px-2">
+    <th>searchKey</th>
+    <th>ProductName</th>
+    <th>Price</th>
+    <th>User</th>
+    <th>comments</th>
+    <th>rating</th>
+  </thead>
+  <tbody>
+    {% for review in reviews %}
+    <tr>
+      <td>{{review.searchKey}}</td>
+      <td>{{review.ProductName}}</td>
+      <td>{{review.price}}</td>
+      <td>{{review.UserName}}</td>
+      <td>{{review.ShortComments}}</td>
+      <td>{{review.rating}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

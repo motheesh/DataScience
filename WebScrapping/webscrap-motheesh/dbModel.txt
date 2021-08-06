@@ -1,0 +1,17 @@
+CREATE TABLE scarp.searchdetails(
+   searchkey text PRIMARY KEY,
+   product_count int,
+   review_count int
+   );
+
+delete 
+
+CREATE TABLE scarp.reviewdetails(
+   id UUID PRIMARY KEY,
+   searchkey text,
+   productname text,
+   price int,
+   username text,
+   rating int,
+   shortcomments text
+   );

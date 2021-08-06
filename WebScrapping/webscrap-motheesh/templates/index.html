@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+  <script
+    src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    crossorigin="anonymous"
+  ></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+    crossorigin="anonymous"
+  />
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"
+  ></script>
+  <script type="text/javascript" src="../static/js/custom.js"></script>
+
+  <body class="bg-white" style="margin-right: 0px">
+    <div class="row">
+      <div class="col-md-3 mr-3 mt-5">
+        <div class="col-md-12 mr-3 text-center">
+          <select
+            class="btn-secondary p-2 rounded"
+            onchange="handleSelect()"
+            name="assignment"
+            id="assignment"
+          >
+            <option value="basic">Flipkart scrapper v1</option>
+            <option value="adv" selected>Flipkart scrapper v2</option>
+          </select>
+        </div>
+      </div>
+      <div class="col-md-5 text-center ml-3 mt-5">
+        <div class="row">
+          <div class="col-md-12">
+            <form id="adv">
+              <div class="form-row align-items-center">
+                <div class="col-auto">
+                  <div class="input-group mb-2">
+                    <div class="input-group-prepend">
+                      <div class="input-group-text" style="width: 160px">
+                        Search Key
+                      </div>
+                    </div>
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="searchKey"
+                      placeholder="Enter search keyword"
+                    />
+                  </div>
+                </div>
+
+                <div class="col-auto">
+                  <div class="input-group mb-2">
+                    <div class="input-group-prepend">
+                      <div class="input-group-text">Number of reviews</div>
+                    </div>
+                    <input
+                      type="number"
+                      class="form-control"
+                      id="numberofreviews"
+                      placeholder="Number of reviews"
+                    />
+                  </div>
+                </div>
+
+                <div class="col-auto">
+                  <button
+                    type="button"
+                    onclick="HandleSearch2()"
+                    class="btn btn-primary px-5 m-5"
+                  >
+                    Get reviews
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <div class="input-group col-md-6 m-5" id="basic" style="display: none">
+          <input
+            type="text"
+            id="keyword"
+            class="form-control"
+            placeholder="search product"
+            aria-label="Recipient's username"
+            aria-describedby="button-addon2"
+          />
+          <button
+            class="btn btn-primary"
+            onclick="HandleSearch()"
+            type="button"
+            id="button-addon2"
+          >
+            search
+          </button>
+        </div>
+        <div class="col-md-1"></div>
+
+        <div class="col-md-2"></div>
+      </div>
+      <div class="col-md-4 mt-5 pl-4 p-3" id="spinner">
+        <div class="spinner-border" role="status">
+          <span class="sr-only"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row mt-5">
+        <div class="col-md-2"></div>
+        <div class="col-md-8 text-center" id="div1"></div>
+      </div>
+    </div>
+  </body>
+</html>

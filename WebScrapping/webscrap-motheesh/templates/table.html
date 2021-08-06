@@ -1,0 +1,24 @@
+<table class="table shadow-lg">
+  <thead class="table-dark shadow-lg px-2">
+    <th>SI.NO</th>
+    <th>searchKey</th>
+    <th>ProductName</th>
+    <th>Price</th>
+    <th>User</th>
+    <th>comments</th>
+    <th>rating</th>
+  </thead>
+  <tbody>
+    {% set count = 1 %} {% for review in reviews %}
+    <tr>
+      <td>{{loop.index}}</td>
+      <td>{{review.searchKey}}</td>
+      <td>{{review.ProductName}}</td>
+      <td>{{review.price}}</td>
+      <td>{{review.UserName}}</td>
+      <td>{{review.ShortComments}}</td>
+      <td>{{review.rating}}</td>
+    </tr>
+    {% set count =count+ 1 %} {% endfor %}
+  </tbody>
+</table>

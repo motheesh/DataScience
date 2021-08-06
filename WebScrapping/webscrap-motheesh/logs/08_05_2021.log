@@ -1,0 +1,185 @@
+2021-08-05 17:34:03,247 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 17:34:03,259 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:34:03] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:35:50,796 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:35:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 17:36:18,403 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 17:36:18,418 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:36:18] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:40:06,853 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:40:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 17:40:29,594 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 17:40:29,647 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\debug.cpython-38.pyc', reloading
+2021-08-05 17:40:29,649 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:40:29] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:41:43,037 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 17:41:43,049 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:41:43] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:43:31,645 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:43:31] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 17:43:57,378 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 17:43:57,394 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:43:57] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:45:12,534 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:45:12] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 17:45:37,514 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 17:45:37,535 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:45:37] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:49:24,816 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:49:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 17:49:30,070 root INFO http://127.0.0.1:5000/search?keyword=iphone|GET
+2021-08-05 17:49:30,070 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:49:30] "[37mGET /search?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:50:37,053 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:50:37] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 17:50:43,117 root INFO http://127.0.0.1:5000/search?keyword=iphone|GET
+2021-08-05 17:50:43,117 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:50:43] "[37mGET /search?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:51:22,266 root INFO http://127.0.0.1:5000/search?keyword=iphone|GET
+2021-08-05 17:51:22,281 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:51:22] "[37mGET /search?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:51:37,796 root INFO http://127.0.0.1:5000/search?keyword=iphone|GET
+2021-08-05 17:51:37,796 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:51:37] "[37mGET /search?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:52:55,117 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:52:55] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 17:53:00,577 root INFO http://127.0.0.1:5000/search?keyword=iphone|GET
+2021-08-05 17:53:00,593 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:53:00] "[37mGET /search?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:56:01,127 root INFO http://127.0.0.1:5000/search?keyword=iphone|GET
+2021-08-05 17:56:01,127 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:56:01] "[37mGET /search?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 17:56:03,156 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:56:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 17:56:29,068 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 17:56:29,096 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 17:56:29] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 18:01:40,785 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:01:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:02:44,395 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:02:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:03:57,814 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:03:57] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:05:31,722 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:05:31] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:06:38,815 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:06:38] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:06:41,081 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:06:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:07:01,309 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:07:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:07:33,998 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:07:33] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:08:15,653 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:08:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:08:56,543 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:08:56] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:09:11,002 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:09:11] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:09:24,226 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:09:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:09:26,011 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:09:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:10:23,944 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:10:23] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:11:06,846 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:11:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:11:17,561 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:11:17] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:11:46,339 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:11:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:12:14,118 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:12:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:12:14,951 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:12:14] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:12:41,804 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:12:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:13:12,991 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:13:12] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:13:24,680 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:13:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:13:37,262 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:13:37] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:13:50,788 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:13:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:14:05,773 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:14:05] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:14:06,561 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:14:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:14:21,670 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:14:21] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:14:35,073 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:14:35] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:14:43,626 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:14:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:15:17,025 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:15:17] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:15:39,876 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:15:39] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:15:40,480 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:15:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:15:40,702 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:15:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:15:51,276 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:15:51] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:16:30,832 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 18:16:30,848 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:16:30] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 18:18:01,242 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:18:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:18:18,067 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:18:18] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:18:27,827 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:18:27] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:19:36,032 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:19:36] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:20:44,498 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:20:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:21:08,197 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:21:08] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:21:42,328 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:21:42] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:21:44,908 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:21:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:21:45,123 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:21:45] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:21:45,323 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:21:45] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:21:45,515 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:21:45] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:22:47,136 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:22:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:23:01,806 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:23:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:23:15,206 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:23:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:23:42,490 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:23:42] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:25:41,568 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:25:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:26:43,564 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:26:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:27:06,903 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:27:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:27:37,801 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:27:37] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:27:50,723 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:27:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:29:01,467 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:29:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:29:10,922 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:29:10] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:31:04,621 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:31:04] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:32:13,857 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:32:13] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:32:33,261 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:32:33] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:34:07,997 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:34:07] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:34:37,103 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:34:37] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:34:46,112 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:34:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:35:07,560 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:35:07] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:35:18,758 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:35:18] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:35:46,374 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:35:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:36:17,282 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:36:17] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:36:36,698 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:36:36] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:36:47,237 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:36:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:36:59,466 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:36:59] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:37:09,966 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:37:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:37:17,760 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:37:17] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:37:53,208 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:37:53] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:38:20,746 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:38:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:38:33,369 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:38:33] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:38:57,227 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:38:57] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:39:07,686 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:39:07] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:39:18,134 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:39:18] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:39:27,036 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:39:27] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:39:34,204 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:39:34] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:39:41,446 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:39:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:39:59,902 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:39:59] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:40:32,449 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:40:32] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:40:38,959 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:40:38] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:40:51,864 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:40:51] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:41:15,321 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:41:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:59:32,561 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:59:32] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 18:59:59,278 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone|GET
+2021-08-05 18:59:59,282 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 18:59:59] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 19:02:14,242 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\werkzeug\\wrappers\\accept.py', reloading
+2021-08-05 19:03:05,138 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone&numberofreview=20|GET
+2021-08-05 19:03:05,149 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:03:05] "[37mGET /getallreviews?keyword=iphone&numberofreview=20 HTTP/1.1[0m" 200 -
+2021-08-05 19:03:55,595 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\WebScrapping\\FlipkartWebScrapper\\app.py', reloading
+2021-08-05 19:03:55,596 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\WebScrapping\\FlipkartWebScrapper\\app.py', reloading
+2021-08-05 19:03:55,597 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\WebScrapping\\FlipkartWebScrapper\\app.py', reloading
+2021-08-05 19:03:55,598 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\WebScrapping\\FlipkartWebScrapper\\app.py', reloading
+2021-08-05 19:06:27,690 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone&numberofreview=20|GET
+2021-08-05 19:06:27,697 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:06:27] "[37mGET /getallreviews?keyword=iphone&numberofreview=20 HTTP/1.1[0m" 200 -
+2021-08-05 19:07:37,001 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\WebScrapping\\FlipkartWebScrapper\\app.py', reloading
+2021-08-05 19:07:37,002 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\WebScrapping\\FlipkartWebScrapper\\app.py', reloading
+2021-08-05 19:07:37,004 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\WebScrapping\\FlipkartWebScrapper\\app.py', reloading
+2021-08-05 19:07:37,004 werkzeug INFO  * Detected change in 'C:\\Users\\motheesh jay\\Documents\\data_science\\ineuron\\WebScrapping\\FlipkartWebScrapper\\app.py', reloading
+2021-08-05 19:07:48,728 root INFO http://127.0.0.1:5000/getallreviews?keyword=redmi&numberofreview=10|GET
+2021-08-05 19:07:48,728 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:07:48] "[37mGET /getallreviews?keyword=redmi&numberofreview=10 HTTP/1.1[0m" 200 -
+2021-08-05 19:10:23,111 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:10:23] "[37mGET /getallreviews?keyword=iphone HTTP/1.1[0m" 200 -
+2021-08-05 19:10:25,701 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:10:25] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:10:31,732 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone&numberofreview=10|GET
+2021-08-05 19:10:31,732 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:10:31] "[37mGET /getallreviews?keyword=iphone&numberofreview=10 HTTP/1.1[0m" 200 -
+2021-08-05 19:11:33,221 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:11:33] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:12:06,217 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:12:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:12:29,253 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:12:29] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:13:01,869 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:13:01] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:13:40,132 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:13:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:14:16,307 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:14:16] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:14:41,378 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:14:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:14:54,979 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:14:54] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:15:04,605 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:15:04] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:15:58,022 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:15:58] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:16:09,602 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:16:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:16:50,287 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:16:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:17:12,378 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:17:12] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:17:32,344 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:17:32] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:17:41,951 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:17:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:19:09,860 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:19:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:19:20,467 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:19:20] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:22:39,492 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:22:39] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:23:16,784 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:23:16] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:23:56,495 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:23:56] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:26:59,690 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:26:59] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:27:22,182 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:27:22] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:27:40,976 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:27:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:28:59,712 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:28:59] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:29:48,359 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone&numberofreview=10|GET
+2021-08-05 19:29:48,359 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:29:48] "[37mGET /getallreviews?keyword=iphone&numberofreview=10 HTTP/1.1[0m" 200 -
+2021-08-05 19:30:00,275 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone&numberofreview=10|GET
+2021-08-05 19:30:00,275 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:30:00] "[37mGET /getallreviews?keyword=iphone&numberofreview=10 HTTP/1.1[0m" 200 -
+2021-08-05 19:30:08,661 root INFO http://127.0.0.1:5000/getallreviews?keyword=redmi&numberofreview=10|GET
+2021-08-05 19:30:08,661 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:30:08] "[37mGET /getallreviews?keyword=redmi&numberofreview=10 HTTP/1.1[0m" 200 -
+2021-08-05 19:30:43,600 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:30:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-08-05 19:30:58,991 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone&numberofreview=30|GET
+2021-08-05 19:30:58,992 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 19:30:58] "[37mGET /getallreviews?keyword=iphone&numberofreview=30 HTTP/1.1[0m" 200 -
+2021-08-05 19:36:45,964 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pandas\\__init__.py', reloading
+2021-08-05 22:29:15,262 root INFO http://127.0.0.1:5000/getallreviews?keyword=iphone&numberofreview=30|GET
+2021-08-05 22:29:15,269 werkzeug INFO 127.0.0.1 - - [05/Aug/2021 22:29:15] "[37mGET /getallreviews?keyword=iphone&numberofreview=30 HTTP/1.1[0m" 200 -
+2021-08-05 22:35:13,554 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Scripts\\pip-script.py', reloading
+2021-08-05 22:35:14,107 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pip\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-08-05 22:35:14,141 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pip\\_internal\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-08-05 22:35:14,236 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pip\\_internal\\utils\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-08-05 22:35:14,275 werkzeug INFO  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pip\\_internal\\utils\\__pycache__\\inject_securetransport.cpython-38.pyc', reloading
