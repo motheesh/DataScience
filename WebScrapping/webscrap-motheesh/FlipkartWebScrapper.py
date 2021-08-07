@@ -120,10 +120,10 @@ class FlipkartWebScrapper:
                 pcount,rcount=obj.checkSearchCount(search)
             else:
                 obj.addSearchDetails(search,0,0)
-            print(pcount)
-            print(rcount)
+            page_completed=int(rcount/24)
+            slice_req=((page_completed*24)-rcount)*(-1)
             wanted_review-=rcount
-            Start_page=int((pcount/24)+1)
+            Start_page=page_completed+1
             print(f"start page {Start_page}")
             print(f"reviews required {wanted_review}")
             reviews_list=[]
@@ -133,6 +133,9 @@ class FlipkartWebScrapper:
                 p_count=0
                 while wanted_review>0:
                     all_product=self.get_allProducts(search,Start_page)
+                    if slice_req>0:
+                        all_product=all_product[slice_req:]
+                        slice_req=0
                     if len(all_product)==0:
                         return None
                     reviews,product_count=self.get_allProductReviews(wanted_review,all_product)
